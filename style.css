@@ -1,0 +1,14 @@
+.active{
+    font-weight:bold;
+    border:1px solid blue;
+    border-radius: 10px;
+    box-shadow: 0px,3px,0px,blue;
+}
+.nav-link:hover{
+    border-bottom:3px solid blue;
+}
+.bg-gradient{
+    background: #5433FF;
+    background: -webkit-linear-gradient(to right, #A5FECB, #20BDFF, #5433FF); 
+    background: linear-gradient(to right, #A5FECB, #20BDFF, #5433FF);
+}
